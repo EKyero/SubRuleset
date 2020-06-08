@@ -1,2 +1,2 @@
 # SubRuleset
-自用SUB规则补充
+自用 subconverter 规则补充
