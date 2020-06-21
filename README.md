@@ -1,2 +1,2 @@
-# SubRuleset
-自用 subconverter 规则补充
+# Ruleset
+自用规则补充(Subconverter Clash)
